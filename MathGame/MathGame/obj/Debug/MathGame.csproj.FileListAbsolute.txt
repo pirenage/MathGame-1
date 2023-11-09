@@ -1,0 +1,10 @@
+D:\PBO\MathGame\MathGame\bin\Debug\MathGame.exe.config
+D:\PBO\MathGame\MathGame\bin\Debug\MathGame.exe
+D:\PBO\MathGame\MathGame\bin\Debug\MathGame.pdb
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.exe
+D:\PBO\MathGame\MathGame\obj\Debug\MathGame.pdb
